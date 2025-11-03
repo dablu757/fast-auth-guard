@@ -1,1 +1,1 @@
-# fast-auth-guard
+# FastAPI SSO Project\n
